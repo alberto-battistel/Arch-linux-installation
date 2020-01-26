@@ -1,5 +1,5 @@
-'''shell
-# ls /usr/share/kbd/keymaps/**/*.map.gz
+'''console
+root@archiso ~ # ls /usr/share/kbd/keymaps/**/*.map.gz
 '''
 
 '''console
